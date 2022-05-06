@@ -14,5 +14,7 @@ Repo [Patika.dev](https://www.patika.dev/) üzerinden almış olduğum Başlang�
 
     Eğitimin CSS modülündeki ödevlendirmelerin kodları CSS klasörü altında bulunmaktadır.
 
+3. BOOTSTRAP
 
+    Eğitimin Bootdtrap modülündeki ödevlendirmelerin kodları Bootstrap klasörü altında bulunmaktadır.
     
