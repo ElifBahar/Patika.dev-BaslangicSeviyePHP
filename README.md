@@ -6,19 +6,20 @@ Repo [Patika.dev](https://www.patika.dev/) üzerinden almış olduğum Başlang�
 <br>
 
 # İçerik
-## 1. HTML
+
+## HTML
 
     Eğitimin HTML Modülündeki ödevlendirme kodları HTML Klasörünün altında bulunmaktadır.
     a. Çikolatalı Küp HTML sayfası
 
-## 2. CSS
-
+## CSS
     Eğitimin CSS modülündeki ödevlendirmelerin kodları CSS klasörü altında bulunmaktadır.
-    ### a. Basit Mağaza Sayfası
+    a. Basit Mağaza Sayfası
     Bootstrap kullanarak Ödev3 kapsamında oluşturmuş olduğum Linkedin kopyası
-    ![Project Image](https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/CSS/odev1/odev1ProjectImage.png = 250x250)
-
-3. BOOTSTRAP
+  
+   <img src="https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/CSS/odev1/odev1ProjectImage.png" height="250" width="350" >
+    
+## BOOTSTRAP
 
     Eğitimin Bootdtrap modülündeki ödevlendirmelerin kodları Bootstrap klasörü altında bulunmaktadır.
     
