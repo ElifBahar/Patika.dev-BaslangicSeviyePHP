@@ -20,16 +20,24 @@ Eğitimin CSS modülündeki ödevlendirmelerin kodları CSS klasörü altında b
 > ### 1. Basit Mağaza Sayfası
 > 
 > Bootstrap kullanarak Ödev3 kapsamında oluşturmuş olduğum Linkedin kopyası
->> <img src="https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/CSS/odev1/odev1ProjectImage.png" height="250" width="350" >
+>> <img src="https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/CSS/odev1/odev1ProjectImage.png" height="250" width="450" >
 >
 > ### 2. Eski Google
 > 
-> Ödev 2 kapsamında 1998 Model Google :)
->> <img src="https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/CSS/odev2/odev2ProjectImage.png" height="250" width="350" >
-
-
+> Ödev 2 kapsamında 1998 Model Google oluşturulması :)
+>> <img src="https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/CSS/odev2/odev2ProjectImage.png" height="250" width="450" >
+>
+> ### 3. Yeni Google
+>
+> Ödev 3 kapsamında modern google tasarımının kodlanmaso
+>> <img src="https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/CSS/odev3/assets/odev3ProjectImage.png" height="250" width="450">
 
 ## BOOTSTRAP
 
-    Eğitimin Bootdtrap modülündeki ödevlendirmelerin kodları Bootstrap klasörü altında bulunmaktadır.
-    
+Eğitimin Bootstrap modülündeki ödevlendirmelerin kodları Bootstrap klasörü altında bulunmaktadır.
+
+> ### 1. Basit Mağaza Sayfası
+> 
+> Bootstrap kullanarak Ödev1 kapsamında oluşturduğum örnek site
+>> <img src="https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/BOOTSTRAP/odev1/odev1ProjectImage.png" height="250" width="450" >
+>
