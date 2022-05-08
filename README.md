@@ -18,7 +18,7 @@ Eğitimin CSS modülündeki ödevlendirmelerin kodları CSS klasörü altında b
     
 > ### 1. Basit Mağaza Sayfası
 > 
-> Bootstrap kullanarak Ödev3 kapsamında oluşturmuş olduğum Linkedin kopyası
+> HTML ve CSS ile Ödev1 kapsamında oluşturmuş olduğum ilk  sayfa
 >> <img src="https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/CSS/odev1/odev1ProjectImage.png" height="250" width="450" >
 > <br>
 > <br>
