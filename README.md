@@ -3,7 +3,6 @@
 Repo [Patika.dev](https://www.patika.dev/) üzerinden almış olduğum Başlangıç Seviye PHP ile Backend Web Development Patikası modüllerindeki ödevleri yapabilmek amacıyla oluşturulmuştur.
 
 <br>
-<br>
 
 İçerik
 ==============
