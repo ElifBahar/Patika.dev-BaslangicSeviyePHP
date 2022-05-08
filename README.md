@@ -6,6 +6,13 @@ Repo [Patika.dev](https://www.patika.dev/) üzerinden almış olduğum Başlang�
 
 İçerik
 ==============
+1. HTML
+2. CSS
+3. BOOTSTRAP
+4. JAVASCRIPT
+<hr>
+<br>
+
 ## HTML
 
 Eğitimin HTML Modülündeki ödevlendirme kodları HTML Klasörünün altında bulunmaktadır.
