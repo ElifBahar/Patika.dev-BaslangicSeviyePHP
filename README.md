@@ -40,4 +40,4 @@ Eğitimin Bootstrap modülündeki ödevlendirmelerin kodları Bootstrap klasör�
 > 
 > Bootstrap kullanarak Ödev1 kapsamında oluşturduğum örnek site
 >> <img src="https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/BOOTSTRAP/odev1/odev1ProjectImage.png" height="250" width="450" >
->> <img src="https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/BOOTSTRAP/odev1/odev1ProjectImage2.png" height="250" width="450" >
+>> <img src="https://raw.githubusercontent.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/master/BOOTSTRAP/odev1/odev1ProjectImage2.PNG" height="250" width="450" >
