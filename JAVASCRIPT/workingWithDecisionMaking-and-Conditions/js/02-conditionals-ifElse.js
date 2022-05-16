@@ -2,10 +2,6 @@
 
 console.log(" *********************** IF ELSE KOŞUL YAPISI SCRIPTLERI BAŞLANGIÇ **********************");
 
-
-
-// *** eşitse -> == ***
-
 let username = prompt("Kullanıcı adınızı giriniz : ");
 
 // *** eğer kullanıcı bilgisi varsa ekrana yazı yazdırma ***
