@@ -1,8 +1,14 @@
 # Açıklama
 
-Patika.dev Başlangıç Seviye PHP ile Backend Patikası kapsamındaki Javascript eğitimlerinin ikinci modül kodlarını içermektedir.
+Patika.dev Başlangıç Seviye PHP ile Backend Patikası kapsamındaki Javascript eğitimlerinin [DOM ile Çalışmak](https://app.patika.dev/courses/javascript/document-object-model-dom-nedir) modülünün kodlarını içermektedir.
 
 Bütün Javascript kodları bir index sayfasında çağırılarak kullanılmıştır. Tarayıcının konsolu üzerinde denemeler ve tesler yapılabilir.
+
+<br>
+
+-------
+
+<br>
 
 ## İçindekiler
 1. [DOM İçerisinden Öge Seçimi](https://github.com/ElifBahar/Patika.dev-BaslangicSeviyePHP/blob/master/JAVASCRIPT/workingWithDOM/js/01-selectingElementsInsideDOM.js)
